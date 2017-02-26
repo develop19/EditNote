@@ -1,4 +1,4 @@
-This is a basic Wordpad depeloped using NETBEANS.<br />
+This is a basic Wordpad depeloped using.<br />
 This project is completely for our learning experience.<br />
 Almost all basic features of a wordpad has been implemented.<br />
 Some of the features are:-<br />
